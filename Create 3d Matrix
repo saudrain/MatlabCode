@@ -1,0 +1,1 @@
+3d_matrix = reshape(2d_matrix, xdim, ydim, [])
