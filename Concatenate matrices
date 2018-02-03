@@ -1,0 +1,1 @@
+ConcatenatedMatrix = cat(dimension, matrixA, matrixB)
