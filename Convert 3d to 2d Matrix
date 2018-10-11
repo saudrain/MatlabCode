@@ -1,0 +1,2 @@
+datamat_reshaped = reshape(datamat,size(datamat,1)*size(datamat,2),size(datamat,3)); 
+%convert 3d to 2d matrix, where each  row is connectivity and each column is person, assuming rows and 
